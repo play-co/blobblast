@@ -1,0 +1,25 @@
+{
+	"appID": "b9b122fd4f084d8cbe46217ef411fbd6",
+	"shortName": "blobblast",
+	"title": "Blob Blast",
+	"icon": "resources/images/icons/icon-72.png",
+	"icons": {
+		"28": "resources/images/icons/icon-36.png",
+		"38": "resources/images/icons/icon-48.png",
+		"56": "resources/images/icons/icon-72.png"
+	},
+	"studio": {
+		"name": "Game Closure",
+		"domain": "gameclosure.com",
+		"stagingDomain": "gameclosure.com"
+	},
+	"supportedOrientations": [
+		"portrait"
+	],
+	"resources": {},
+	"preload": {
+		"autoHide": true,
+		"img": "resources/images/backgrounds/splash.png"
+	},
+	"sdkVersion": "release-0.1.9"
+}
